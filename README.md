@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 📖 I’m currently pursuing my B.Tech in Computer Science Engineering
+- 📖 I’m a Computer Science Engineering
 - ⚙️ I use daily: `.cpp`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌱 Learning all about **Open Source**
 - 👯 I’m looking to join the **Indian Armed Forces**
